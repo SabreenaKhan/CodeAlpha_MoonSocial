@@ -72,6 +72,8 @@ Bash
 npm start
 # Start Frontend (Port 3000)
 npm start
+
+
 🎓 Internship Milestone
 This project was developed as Task 1 of the CodeAlpha Web Development Internship. It demonstrates proficiency in CRUD operations, relational database management, and modern frontend architecture.
 
